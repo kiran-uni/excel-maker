@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+.DS_Store
+venv/
+translation_changes.csv
+translation_changes.xlsx
